@@ -1,0 +1,5 @@
+curl --request GET \
+  --url $1 \
+  --header 'authorization: $2' \
+  --header 'cache-control: no-cache' \
+  --header 'postman-token: 320d120a-b619-d933-ea55-ade73df4942d'
